@@ -9,7 +9,12 @@
 
 ** GOOD LUCK **
 
-### Rating 
+##  Dependencies
+I try to take ideas about the project before i start building the game ,so i watch some videoes on youtube 
+thats explaine different type of memorey game and i try to catch the functionlaty and how its work
+also, the game rely on some other external libraries such as jQuery whitch i used to be as selectores in the game and the events in the game like (.clock)
+
+## Rating 
 14 moves and less = 3 stars   
 19 moves and leaa = 2 stars  
 20 moves and less = 1 star 
